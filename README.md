@@ -1,5 +1,5 @@
 # DoNotTake
-学部2年のときに講義で作成した、センサを用いた自由工作課題のソースコード
+学部2年のときに講義で作成した、センサを用いた自由製作課題のソースコード
 
 ![取らない_git](https://user-images.githubusercontent.com/50357319/123218036-31fb3980-d506-11eb-8128-47de805dba02.jpg)
 ![取る_git](https://user-images.githubusercontent.com/50357319/123218043-345d9380-d506-11eb-96a7-c19324f15307.jpg)
